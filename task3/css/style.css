@@ -1,0 +1,27 @@
+.lamp{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(0, 162, 255);
+}
+.mainT{
+    font-size: 18px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.767);
+    letter-spacing: 1px; 
+    word-spacing: 1.5px;
+}
+p{
+    text-align: center;
+    letter-spacing: 0.7px;
+    color: #7e7e7e;
+    font-size: 15px;
+    
+}
+fieldset{
+    margin: 141px 805px;
+    padding: 18px;
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(230, 230, 230);
+}

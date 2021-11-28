@@ -1,0 +1,31 @@
+.ctg h3{
+    position: relative;
+    font-weight: bold;
+    font-size: 19px;
+    margin: 40px;
+    padding: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.ctg h3::before{
+    position: absolute;
+    content: "";
+    background-color: rgb(0, 162, 255);
+    width: 35px;
+    height: 2.6px;
+    bottom: 13.5px;
+}
+
+.ctg{
+    border: 0px solid rgb(207, 207, 207);
+    margin: 112px 599px 3px 33px;
+}
+fieldset{
+    margin: 141px 805px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(230, 230, 230);
+}

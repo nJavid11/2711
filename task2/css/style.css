@@ -1,0 +1,38 @@
+h4{
+    font-size: 14px;
+    font-weight: 100;
+    color: #00d9ff;
+}
+h2{
+    font-weight: 100;
+    color: #0099ff;
+}
+p{
+    font-size: 13px;
+    color: gray;
+    font-weight: lighter;  
+}
+
+#txt{
+    font-size: 18px;
+}
+#aa{
+    font-size: 18px;
+    color: rgb(0, 162, 255);
+}
+a{
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(0, 119, 255);
+}
+i{
+    font-size: 15px;
+}
+fieldset{
+    margin: 141px 805px;
+    padding: 18px;
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(230, 230, 230);
+}
